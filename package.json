@@ -1,0 +1,24 @@
+{
+  "name": "ralph-cli",
+  "version": "1.0.0",
+  "description": "Autonomous AI developer loop for Claude Code",
+  "bin": {
+    "ralph": "./ralph"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "developer",
+    "autonomous",
+    "coding-agent",
+    "cli"
+  ],
+  "author": "julianocto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianocto/ralph"
+  },
+  "homepage": "https://github.com/julianocto/ralph"
+}
